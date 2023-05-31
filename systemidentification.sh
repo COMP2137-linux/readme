@@ -10,6 +10,6 @@ ip route
 hostname
 
 #to check whether computer is online or offline
-systemctl status
+ping google.com
 
 
